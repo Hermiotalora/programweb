@@ -1,0 +1,40 @@
+
+
+body{
+margin:0;
+padding:0;
+}
+
+#contenedor{
+	background-color:#C60;
+width:100%;
+}
+
+#izquierda{
+	width:95%;
+	float:none;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#derecha{
+	width:95%;
+	float:none;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+/* 480----100%
+ 300----x
+ 30000/480=62.5%
+ */
+ 
+ #encabezado #logo{
+ 	float:none;
+	margin:10px auto;
+	}
+ #encabezado #redes{
+	 width:62.5%;
+	 float::none;
+	 margin:20px auto;
+ }

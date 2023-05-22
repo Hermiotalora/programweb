@@ -1,0 +1,31 @@
+ 
+
+form{
+    /* fuente y demas */
+    width: 600px;
+
+    min-height: 300px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 150px;
+   
+    text-align: center;
+    color:rgb(1, 31, 32);
+   
+}
+/* adentro de los datos */
+input{
+    
+    
+    width: 200%;
+    height: 30px;
+    
+}
+
+/* registrar */
+input[type="submit"]{
+
+width: 50%;
+background-color: rgb(129, 129, 129);
+text-align: center;
+
+}

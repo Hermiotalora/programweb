@@ -1,0 +1,67 @@
+<html>
+<head>
+
+</head>
+<body>
+
+<?php>
+
+
+	include ("header.php");
+	include ("nav".php);
+	
+p>
+
+<div class= "contenido"> </div>
+
+
+<?php
+	include ("aside.php");
+	include ("footer".php);
+
+p>
+
+
+
+
+
+
+
+
+
+
+
+
+index.php (inicio)
+quienessomos.php
+producto.php           = cara publica (front end)
+contacto.php        
+
+
+
+
+
+www.nombre.com
+
+
+parte privada (back end)
+
+panel_admin.php
+
+login_administradores.php
+
+
+
+form_registrar.admin
+form_actualizar.php
+
+
+
+
+
+
+
+header.php
+nav.php
+aside.php
+footer.php

@@ -1,0 +1,174 @@
+
+body{
+	 background-color:#000;
+	
+	}
+/*
+ background-image:url(../img/V2HG2IGUAVHC5DSWFL6CKZRGDE.jpg);
+	 background-repeat:no-repeat;
+	 background-position:left top,right top;
+	 }
+*/
+ 
+
+ 	h1{color:#F39;
+ 	font-family:Verdana, Geneva, sans-serif;
+ 	}
+ 	h2{color:#C06;
+ 	font-family:Georgia, "Times New Roman", Times, serif;
+ 	}
+ 	p{color:#399;
+ 	}
+
+ 
+	/*div{
+	background-color:#F90;
+	width:200px;
+	height:200px;
+}
+*/
+/*960px------100%
+	960px------x
+	
+	900x100=90000/960= 93.75%
+	
+	
+	*/
+#contenedor{
+	background-color: #F90;
+	margin:0 auto;
+	width:50%;/*960%*/
+	min-height:600px;
+	padding-top:1px;
+	padding-bottom:1px
+}
+
+#encabezado{
+	background-color: #F39;
+	margin:10px auto;
+ 	width:93.75%;/*--900p*/
+	height:200px;
+	padding:1px; 
+	/*margen interno-borde*/
+	/*box-sizing:border-box; del borde a dentro*/
+}
+#encabezado #logo{
+		background-color: #F60;
+		width:100px; /*ancho*/
+		height:100px;/*altura
+		width:33.33%;
+		height:171px
+		*/
+		float:left;
+		font-family:Georgia, "Times New Roman", Times, serif;
+		
+		border:4px solid #906; 
+	    border-radius:50px;
+		margin:20px;
+		/*padding:10px;*/
+	    box-sizing:border-box; 			        				
+		text-align:center;
+		line-height:95px;
+		font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+		font-size:24px;
+		color:#869;
+/*
+		float:left;
+		margin-top:20px;
+		margin-left:14.44%;
+	*/
+}
+#encabezado #redes{
+	
+		width:33.33%;
+		height:50px;
+		float:right;
+		margin-top:130px;
+		margin-right:3.33%;
+		
+		
+}
+	
+#encabezado #redes a{
+	
+	width:32px; 
+	height:45px;
+	display:block;
+	float:left;
+	margin-top:5%px; /**/
+	margin-left:2%px;
+	
+  	background-size:contain;
+    background-repeat:no-repeat;  
+
+}
+.facebook{
+		background-image: url(../img/redes-sociales/facebook.png);
+}
+.instagram{
+		background-image:url(../img/redes-sociales/instagram-logo.png);
+}
+.pinterest{
+		background-image:url(../img/redes-sociales/pinterestbrillo.png);
+}
+.google{
+		background-image:url(../img/redes-sociales/googlemas.png);
+}
+.youtube{
+		background-image:url(../img/redes-sociales/youtubebrillo.png);
+}
+	
+#nav{
+	background-color:#C06 ;
+	margin:10px auto;
+ 	width:93.75%;
+	height:30px;
+}
+	
+#separador{
+	background-color: #C9F;
+	margin:10px auto;
+ 	width:93.75%;
+	height:100px;
+}
+	
+#izquierda{
+	background-color: #F39;
+	margin-left:3.125%;
+	margin-bottom:10px;
+	float:left;
+ 	width:62.5%;
+	height:400px;
+	/*
+	padding:20px;
+	box-sizing::border-box;*/
+	}
+	
+#derecha{
+	background-color: #C6F;
+	margin-right:3.125%;
+	margin-bottom:20px;
+	float:right;
+ 	width:29.16%;
+	height:400px;
+	/*
+	padding:20px;
+	box-sizing::border-box;*/
+}
+	
+#pie{
+	background-color: #F60;
+	margin:10px auto 30px auto;
+	/*margin-top:10px;
+	margin-right:auto;
+	margin -left:auto;
+	margin-bottom:30px;*/
+	clear:both;
+ 	width:93.75%;
+	height:200px;
+}
+
+
+
+
+

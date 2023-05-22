@@ -1,0 +1,10 @@
+Programacion (definicion etc)
+
+Programa y algoritmo
+
+algorito (definicion etc)
+
+La definicion que da el nombre algoritmo es finito que da el nombre de instrucciones o pasos que sirven para ejecutar una tarea o resolver un problema, tiene las siguentes caracteristicas: debe ser eficiente e indicar el orden de realizacion de cada paso.
+otra caracteristica, debe estar definido esto quiere decir, si se sigue un algoritmo dos veces se debe obtener cada resultado a la vez.La ultima caracteristica, es que debe ser finito, algun momento debe terminar, si se sigue un algoritmo se debe terminar en alguno momento,es decir,debe tener un numero finito de pasos.
+
+

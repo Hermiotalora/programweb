@@ -1,0 +1,70 @@
+body{
+    background-color: aqua;
+}
+
+main{
+    background-color: aquamarine;
+    width: 960px;
+    min-height: 400px;
+    margin:30px auto;
+    padding: 1px;
+}
+
+header{
+    background-color: rgb(77, 166, 230);
+    width: 900px;
+    height: 200px;
+    margin: 30px auto;
+}
+
+nav{
+    background-color: rgb(77, 166, 230);
+    width: 900px;
+    height: 50px;
+    margin: 10px auto;
+}
+
+#separador{
+    background-color: rgb(77, 166, 230);
+    width: 900px;
+    height: 100px;
+    margin: 10px auto;
+}
+
+article{
+    background-color: rgb(77, 166, 230);
+    width: 600px;
+    height: 400px;
+    float: left;
+    margin-left:30px;
+    margin-bottom: 10px;
+     
+}
+
+/*esto es un comentario*/
+
+article section{
+
+    background-color: aliceblue;
+    min-height: 100px;
+    width: 500px;
+    margin: 10px auto;
+}
+
+aside{
+    background-color: rgb(77, 166, 230);
+    width: 280px;
+    height: 400px;
+    float: right;
+    margin-right: 30px;
+    margin-bottom: 10px;
+    
+}
+
+footer{
+    background-color: rgb(77, 166, 230);
+    width: 900px;
+    height: 200px;
+    margin: 10px auto;
+    clear: both;
+}
